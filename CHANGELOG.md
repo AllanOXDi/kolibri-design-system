@@ -3,6 +3,14 @@
 Changelog is rather internal in nature. See release notes for the public overview and guidelines. Releases are recorded as git tags in the [Github releases](https://github.com/learningequality/kolibri-design-system/releases) page.
 
 ## Version 3.x.x (`release-v3` branch)
+- [#586]
+  - **Description:** Make thumb up and thumdown Icons available to kds.
+  - **Products impact:** new icon
+  - **Addresses:** [#4450](https://github.com/learningequality/studio/issues/4450)
+  - **Components:** no
+  - **Breaking:** no
+  - **Impacts a11y:**  no
+  - **Guidance:** N/A
 
 - [#586]
   - **Description:** Adds a new prop `constrainToScrollParent ` to `KDropdownMenu` to allow overriding of its popover flipping behavior.
