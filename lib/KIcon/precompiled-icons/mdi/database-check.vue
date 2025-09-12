@@ -1,12 +1,12 @@
 <template>
 
-  <svg viewBox="0 0 24 24" role="presentation" focusable="false" xmlns="http://www.w3.org/2000/svg" width="24" height="24"><path d="M17.75 22.16l-2.75-3L16.16 18l1.59 1.59L21.34 16l1.16 1.41-4.75 4.75M12 3c4.42 0 8 1.79 8 4s-3.58 4-8 4-8-1.79-8-4 3.58-4 8-4M4 9c0 2.21 3.58 4 8 4s8-1.79 8-4v3c0 .43-.13.84-.38 1.22-.52-.14-1.06-.22-1.62-.22-2.21 0-4.15 1.2-5.19 3H12c-4.42 0-8-1.79-8-4V9m0 5c0 2.21 3.58 4 8.08 4L12 19c0 .7.12 1.37.34 2H12c-4.42 0-8-1.79-8-4v-3z"/></svg>
+  <svg viewBox="0 0 24 24" role="presentation" focusable="false" xmlns="http://www.w3.org/2000/svg" width="24" height="24"><path d="M12 3c4.42 0 8 1.79 8 4s-3.58 4-8 4-8-1.79-8-4 3.58-4 8-4M4 9c0 2.21 3.58 4 8 4s8-1.79 8-4v3.08L19 12c-2.59 0-4.8 1.64-5.64 3.94L12 16c-4.42 0-8-1.79-8-4V9m0 5c0 2.21 3.58 4 8 4h1c0 1.05.27 2.04.75 2.9L12 21c-4.42 0-8-1.79-8-4v-3m14 7.08l-2.75-3 1.16-1.16L18 18.5l3.59-3.58 1.16 1.41L18 21.08"/></svg>
 
 </template>
 
 
 <script>
 
-  export default {"name":"icon-f1fcf6229bf4a58d976be4b033b45bd4"}
+  export default {"name":"icon-720758562db202677fb34f895f7c713b"}
 
 </script>

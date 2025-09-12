@@ -7,6 +7,6 @@
 
 <script>
 
-  export default {"name":"icon-35aafa6af71c0716816aac64cce26221"}
+  export default {"name":"icon-fec91990c60fe9483f07595a02b4c4a3"}
 
 </script>
